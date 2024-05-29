@@ -33,7 +33,7 @@ sudo apt update
 sudo apt install git -y
 sudo rm -f -r PI-Pwn
 sudo systemctl stop pipwn
-git clone https://github.com/stooged/PI-Pwn
+git clone https://github.com/Almondcacao/STBPwn
 sudo mkdir /boot/firmware/
 cd STBPwn
 sudo cp -r PPPwn /boot/firmware/
